@@ -11,7 +11,7 @@ This **smart Attendance System** simplifies attendance tracking by using **QR co
 
 ✅ **Multi-Camera Support**  
 - Works with **Laptop/PC cameras** (built-in or external).  
-- Supports **Mobile phone cameras via IV Webcam** (connect using an IP address).  
+- Supports **Mobile phone cameras via IP Webcam** (connect using an IP address).  
 
 ✅ **Scans Local QR Code Images**  
 - You can **upload an image** containing a QR code instead of scanning a live one.  
